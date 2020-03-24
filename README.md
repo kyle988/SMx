@@ -4,6 +4,7 @@
 椭圆曲线公钥加密算法
 ## SM3
 HASH摘要算法
+
 这里要注意 long, 在 windows64平台下占用4个字节 ；
 而long, 在linux64平台下占用8个字节；
 这种差异直接导致了windows和linux结果的差异；
